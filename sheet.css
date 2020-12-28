@@ -1,0 +1,19 @@
+.bgimage{
+
+background-image: url('../images/restaurant.jpg');
+background-position: center center;
+background-size: cover;
+height: 200px;
+
+}
+.myimg{
+	width: 150px;
+	height: 150px;
+	margin: 0 auto;
+	display: block;
+	padding-bottom:10px;
+
+}
+.items{
+	text-align: center;
+}
